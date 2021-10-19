@@ -1,4 +1,6 @@
-Minesweeper
+Minesweeper<br>
+<i><b>M</b>: Mine (Game Over)</i> <br>
+<i><b>D</b>: Dynamite (Uncover all eight neighbouring cells)</i>
 <p align="center"><img src="screenshot1.png"></p>
 <p align="center"><img src="screenshot2.png"></p>
 
